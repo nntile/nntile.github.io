@@ -1,2 +1,2 @@
-# nntile.github.io
+# nntile.ai
 Web page of the NNTile project
